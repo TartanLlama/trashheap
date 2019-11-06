@@ -36,6 +36,8 @@ If it's trash, we want it.
 
 Except we don't want trash which promotes bigotry. 
 
-Pictures of a chipped potato with the text "mmmmmmmmmmmm chipped potato" written in Microsoft 2003 Word Art over the top is """"""art""""", being a racist is not. 
+Pictures of a chipped potato with the text "mmmmmmmmmmmm chipped potato" written in Microsoft Word 2003 Word Art over the top is """"""art""""".
+
+Being a racist is not. 
 
 Send your trash to [trashheaplit@gmail.com](mailto:trashheaplit@gmail.com).
