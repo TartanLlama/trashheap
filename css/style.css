@@ -1,0 +1,28 @@
+#logo {
+    width: 100px;
+}
+
+html {
+    font-family: "Comic Sans MS", cursive;
+    height: 100%;
+    background-image: url(/images/background.jpg);
+    background-repeat: repeat;
+}
+
+html, a {
+    cursor: url(/images/cursor.jpg), auto;
+}
+
+navbar {
+    display: block;
+}
+
+.outer {
+    display: inline-block;
+    border-style: ridge;
+}
+
+.inner {
+    border-style: inset;
+    background: lightgrey;
+}
