@@ -25,6 +25,7 @@ Send us:
 - Love poems you wrote when you were 15 and thought you were the first person to ever compare someone's eyes to bottomless pools you could get lost in.
 - Self-portraits made using raisins.
 - Poems written by your cat.
+- An image consisting only of JPEG compression artifacts.
 - Pictures of Andrei Tarkovsky with "pubes" written on his moustache.
 - Your thoughts about your mother.
 - Your thoughts about someone else's mother.
