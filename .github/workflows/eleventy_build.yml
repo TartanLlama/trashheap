@@ -8,10 +8,7 @@ jobs:
       - name: Build
         uses: TartanLlama/actions-eleventy@v1.1
       - name: CNAME
-        run: |
-          ls
-          pwd
-          echo 'trashheap.tartanllama.xyz' > _site/CNAME
+        run: echo 'trashheap.tartanllama.xyz' | sudo tee _site/CNAME
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v2.5.1
         env:
