@@ -1,0 +1,21 @@
+---
+title: trashheap lit
+---
+
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="/css/style.css">
+        <title>trashheap lit — {{ title }}</title>
+    </head>
+    <body>
+        <navbar>
+            <a href="/"><img id="logo" src="/images/logo.jpg"></a>
+            <a href="/issues">issues</a>
+            <a href="/submit">submit</a>
+            <a href="/about">about</a>
+            <a href="/masthead">masthead</a>
+        </navbar>
+        {{ content | safe }}
+    </body>
+</html>
