@@ -26,3 +26,8 @@ navbar {
     border-style: inset;
     background: lightgrey;
 }
+
+.bio-text {
+    display: inline-block;
+    vertical-align: top;
+}
