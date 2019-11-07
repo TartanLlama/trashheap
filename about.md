@@ -4,17 +4,17 @@ title: About
 ---
 
 <blockquote>
-We know trash, we know clean don't last
+we know trash, we know clean don't last
 
-Never last when we load trash
+never last when we load trash
 
-We upload trash
+we upload trash
 
-Face down, trash begets trash
+face down, trash begets trash
 </blockquote>
 
-— Death Grips, Trash
+— death grips, trash
 
-We are trash people who publish trash.
+we are trash people who publish trash
 
-We are always open to [trash](/submit) and will publish trash when we have enough trash to publish.
+we are always open to [trash](/submit) and will publish trash when we have enough trash to publish

@@ -30,4 +30,17 @@ navbar {
 .bio-text {
     display: inline-block;
     vertical-align: top;
+    width: 256px;
 }
+
+.bio-text h2 {
+    margin: 0px;
+}
+
+#bio-content {
+    width: 520px;
+}
+
+ul {
+    list-style-image: url('/images/trashicon.png');
+  }
