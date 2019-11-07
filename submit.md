@@ -12,7 +12,7 @@ send us:
 - texts you sent to your crush at 4am while drunk where you misspelled their name and they never spoke to you again
 - flash fiction consisting entirely of the word "moist"
 - poems built around giving colours (especially purple) to things which don't have a colour
-- draft Tweets which you thought better of sending
+- draft tweets which you thought better of sending
 - poorly photoshopped pictures of our website
 - poems you wrote at 23:58 because you were doing a poem a day challenge and hadn't written anything yet
 - your bank statement
@@ -21,7 +21,7 @@ send us:
 - a list of the contents of the nearest bin on your left
 - pictures of your butt taken with an early phone camera on full digital zoom
 - re-edits of derek jarman's blue (1993) with the colour changed and all the narration cut out
-- "experimental" poetry  by shuffling a poem around and spreading it across the page because that's what it seemed everyone else was doing
+- "experimental" poetry made by shuffling a poem around and spreading it across the page cause that's what everyone else seems to do
 - love poems you wrote at 15 where you thought you were the first to ever compare someone's eyes to bottomless pools you could get lost in
 - self-portraits made using raisins
 - poems written by your cat
