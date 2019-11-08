@@ -1,6 +1,6 @@
 ---
 layout: singlesection.njk
-title: Issues
+title: issues
 ---
 
 we currently have no issues

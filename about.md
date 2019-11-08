@@ -1,6 +1,6 @@
 ---
 layout: singlesection.njk
-title: About
+title: about
 ---
 
 <blockquote>
