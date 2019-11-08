@@ -9,8 +9,12 @@ html {
     background-repeat: repeat;
 }
 
-html, a {
+* {
     cursor: url(/images/cursor.jpg), auto;
+}
+
+a:hover, #logo:hover {
+    cursor: url(/images/cursorinvert.jpg), auto;
 }
 
 navbar {
