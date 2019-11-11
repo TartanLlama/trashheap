@@ -41,4 +41,8 @@ pictures of a chipped potato with the text "mmmmmmm chipped potato" written in m
 
 being a racist is not
 
+we also don't want porn or gore
+
+nudity and erotica is fine
+
 send your trash to [trashheaplit@gmail.com](mailto:trashheaplit@gmail.com) with the subject HERE'S MY TRASH
