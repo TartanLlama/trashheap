@@ -3,12 +3,14 @@ layout: singlesection.njk
 title: submit
 ---
 
-_submissions are not currently open, but they will be soon_
+submissions for issue 0, TR0SH, are open until noon utc on december 25th
 
 we want your trash
 
 send us:
 
+- any kind of text or images
+- video or audio, so long as they're hosted somewhere else
 - texts you sent to your crush at 4am while drunk where you misspelled their name and they never spoke to you again
 - flash fiction consisting entirely of the word "moist"
 - poems built around giving colours (especially purple) to things which don't have a colour
@@ -30,6 +32,7 @@ send us:
 - your thoughts about your mother
 - your thoughts about someone else's mother
 - rewrites of song lyrics where you change every adjective to "horny"
+- fanfiction about the editors
 - men
 - any other trash
 

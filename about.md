@@ -18,3 +18,5 @@ face down, trash begets trash
 we are trash people who publish trash
 
 we are always open to [trash](/submit) and will publish trash when we have enough trash to publish
+
+we encourage recycling
