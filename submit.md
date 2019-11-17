@@ -48,5 +48,5 @@ we also don't want porn or gore
 
 nudity and erotica is fine
 
-send your trash along with a short bio to [trashheaplit@gmail.com](mailto:trashheaplit@gmail.com) with the subject HERE'S MY TRASH
+send your trash along with a short bio to [trashheaplit@gmail.com](mailto:trashheaplit@gmail.com) with the subject HERES MY TRASH
 
