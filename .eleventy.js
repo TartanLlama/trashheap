@@ -1,7 +1,7 @@
 module.exports = function(eleventyConfig) {
     return {
       templateFormats: [
-        "jpg", "md", "css", "cur", "html", "png"
+        "jpg", "md", "css", "cur", "html", "png", "gif"
       ]
     };
   };
