@@ -13,7 +13,7 @@ html {
     cursor: url(/images/cursor.jpg), auto;
 }
 
-a:hover, #logo:hover {
+a:hover, #logo:hover, #email:hover {
     cursor: url(/images/cursorinvert.jpg), auto;
 }
 
