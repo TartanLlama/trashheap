@@ -1,0 +1,13 @@
+---
+layout: singlesection.njk
+title: TR0SH
+---
+
+<ul>
+    {% for work in collections.issue0 %}
+        {% if work.data.title != "TR0SH" %}
+            <li><a href="{{work.url}}">{{ work.data.title }}</a> by {{ work.data.author }}</li>
+        {% endif %}
+    {% endfor %}
+</ul>
+
