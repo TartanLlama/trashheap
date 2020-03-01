@@ -3,8 +3,17 @@ layout: singlesection.njk
 title: TR0SH
 ---
 
+<h2>editrorial by Sy Brand</h2>
+<p>HOMK</p>
+<p>HOMKHOMKHOMK HOMK HOMK.</p>
+<p>HOMK,,,HOMKHOMK HOMK</p>
+<p>HOMKKKKKKK; HOMKHOMKHOMKHM</p>
+<p>HOMK,</p>
+<p>Sy</p>
+
+<h2>contents</h2>
 <ul>
-    {% for work in collections.issue0 %}
+    {% for work in collections.issue0sorted %}
         {% if work.data.title != "TR0SH" %}
             <li><a href="{{work.url}}">{{ work.data.title }}</a> by {{ work.data.author }}</li>
         {% endif %}
