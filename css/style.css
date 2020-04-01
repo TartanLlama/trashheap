@@ -9,6 +9,10 @@ html {
     background-repeat: repeat;
 }
 
+pre {
+    font-family: "Comic Sans MS", serif;
+}
+
 * {
     cursor: url(/images/cursor.jpg), auto;
 }
@@ -48,3 +52,8 @@ navbar {
 ul {
     list-style-image: url('/images/trashicon.png');
   }
+
+.inner img {
+    max-width: 100vw;
+    max-height: 100vh;
+}
