@@ -1,0 +1,23 @@
+---
+layout: singlesection.njk
+title: TR1SH
+---
+
+<h2>editrorial by Em Still</h2>
+<p>Trashheap 4 Tom Nook<br/>
+Battle Capitalism<br/>
+Stay Home<br/>
+Eat<br/>
+The<br/>
+Biscuits</p>
+<p>Em</p>
+
+<h2>contents</h2>
+<ul>
+    {% for work in collections.issue1sorted %}
+        {% if work.data.title != "TR1SH" %}
+            <li><a href="{{work.url}}">{{ work.data.title }}</a> by {{ work.data.author }}</li>
+        {% endif %}
+    {% endfor %}
+</ul>
+
