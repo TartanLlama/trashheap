@@ -15,9 +15,11 @@ collection.getFilteredByGlob("issues/TR1SH/*.md").sort((a, b) => {
   else if (a.data.author < b.data.author) return -1;
   else return 0;
 }));
+
+eleventyConfig.addPassthroughCopy("js");
     return {
       templateFormats: [
-        "jpg", "md", "css", "cur", "html", "png", "gif", "js"
+        "jpg", "md", "css", "cur", "html", "png", "gif"
       ]
     };
   };
