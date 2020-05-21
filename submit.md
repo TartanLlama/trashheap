@@ -3,7 +3,7 @@ layout: singlesection.njk
 title: submit
 ---
 
-submissions for our 3rd issue, TR2SH, are open until noon utc on 2020-04-12.
+submissions for our 4th issue, TR3SH, are open until noon utc on 2020-06-30.
 
 we want yr trash
 
