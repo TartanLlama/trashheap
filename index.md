@@ -5,9 +5,9 @@ title: home
 
 an online """""art"""" zine whomst uploads trash
 
-issue 2, TR1SH, is now [extremely online](/issues/TR1SH)
+issue 3, TR2SH, is now [extremely online](/issues/TR2SH)
 
-[submissions](/submit) for our fourth issue, TR3SH, are open until noon utc on 2020-06-30.
+[submissions](/submit) for our fifth issue, TR4SH, are open until noon utc on 2020-08-30.
 
 
 <form style="width: 100%" action="https://party.us5.list-manage.com/subscribe/post?u=60f2130d88f8ef36d0da0a700&amp;id=eb060341fc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
