@@ -1,0 +1,17 @@
+---
+layout: singlesection.njk
+title: TR2SH
+---
+
+<h2>editrorial by Siobhan Carroll</h2>
+<p>I wrote a great editorial at 2am last week but have forgotten it.</p>
+
+<h2>contents</h2>
+<ul>
+    {% for work in collections.issue2sorted %}
+        {% if work.data.title != "TR2SH" %}
+            <li><a href="{{work.url}}">{{ work.data.title }}</a> by {{ work.data.author }}</li>
+        {% endif %}
+    {% endfor %}
+</ul>
+
