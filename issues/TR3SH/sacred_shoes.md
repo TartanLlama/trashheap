@@ -3,4 +3,4 @@ title: Sacred Shoes
 author: Charles March
 ---
 
-<img src="../osacred_shoes.jpg" alt="shoes with holes in them">
+<img src="../sacred_shoes.jpg" alt="shoes with holes in them">
