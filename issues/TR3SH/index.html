@@ -1,0 +1,16 @@
+---
+layout: singlesection.njk
+title: TR3SH
+---
+
+<h2>editrorial by XXX</h2>
+<p>XXX</p>
+
+<h2>contents</h2>
+<ul>
+    {% for work in collections.issue3sorted %}
+        {% if work.data.title != "TR3SH" %}
+            <li><a href="{{work.url}}">{{ work.data.title }}</a> by {{ work.data.author }}</li>
+        {% endif %}
+    {% endfor %}
+</ul>

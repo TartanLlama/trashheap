@@ -23,6 +23,13 @@ collection.getFilteredByGlob("issues/TR2SH/*.md").sort((a, b) => {
   else return 0;
 }));
 
+eleventyConfig.addCollection("issue3sorted", (collection) =>
+collection.getFilteredByGlob("issues/TR3SH/*.md").sort((a, b) => {
+  if (a.data.author > b.data.author) return 1;
+  else if (a.data.author < b.data.author) return -1;
+  else return 0;
+}));
+
 eleventyConfig.addPassthroughCopy("js");
     return {
       templateFormats: [
